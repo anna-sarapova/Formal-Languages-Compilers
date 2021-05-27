@@ -1,0 +1,6 @@
+S -> BfD |
+B -> DY | D
+Y -> cY | c
+D -> AZ |
+Z -> g | @
+A -> d | c
